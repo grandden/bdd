@@ -4,3 +4,5 @@ exclude =
     __pycache__,
     manage.py,
     migrations
+max-line-length = 95
+extend-ignore = E203, W503
